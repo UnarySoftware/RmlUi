@@ -1,0 +1,14 @@
+{
+	"Name": "RmlUi",
+	"Version": "5.1",
+	"MinEngineVersion": "1.5",
+	"Company": "The RmlUi Team",
+	"Copyright": "Copyright (c) 2019-2023 The RmlUi Team, and contributors",
+	"GameTarget": "RmlUiTarget",
+	"EditorTarget": "RmlUiEditorTarget",
+	"References": [
+		{
+			"Name": "$(EnginePath)/Flax.flaxproj"
+		}
+	]
+}
